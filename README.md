@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+<!--[the_google_cloud_partner_opportunity.pdf](https://github.com/clepen/clepen/files/7116763/the_google_cloud_partner_opportunity.pdf)
+-
 clepen/clepen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->https://www.youtube.com/c/ClepenPaw
